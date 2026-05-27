@@ -1,2 +1,9 @@
 .claude/
 HANDOFF.md
+
+# Virtual environment
+.venv/
+
+# Dataset CSVs — download from Kaggle (see README.md)
+*.csv
+*.parquet
