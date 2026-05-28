@@ -1,9 +1,18 @@
-.claude/
-HANDOFF.md
-
-# Virtual environment
+# Environment
 .venv/
+__pycache__/
+*.pyc
 
-# Dataset CSVs — download from Kaggle (see README.md)
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and generated outputs (not committed — see README for data setup)
 *.csv
 *.parquet
+outputs/
+
+# Project notes
+.claude/
+HANDOFF.md
+*.md
+!README.md
