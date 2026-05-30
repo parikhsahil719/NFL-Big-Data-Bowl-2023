@@ -7,6 +7,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Dataset and generated outputs (not committed — see README for data setup)
+data/
 *.csv
 *.parquet
 outputs/
